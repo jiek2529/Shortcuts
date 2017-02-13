@@ -47,13 +47,13 @@ Power button| Tap to turn on your Mac or wake your Mac from sleep.
 || Hold for 5 seconds to force your Mac to turn off.
 Control–Command–Power button|	Force your Mac to restart.
 Control–Shift–(Power button or Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png))|	Put your displays to sleep.
-Control–Command–Media Eject| |	Quit all apps, then restart your Mac. If any open documents have unsaved changes, you'll be asked whether you want to save them.
+Control–Command–Media Eject|	Quit all apps, then restart your Mac. If any open documents have unsaved changes, you'll be asked whether you want to save them.
 Control–Option–Command–(Power button or Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png))|	Quit all apps, then shut down your Mac. If any open documents have unsaved changes, you'll be asked whether you want to save them.
 Shift-Command-Q|	Log out of your macOS user account. You'll be asked to confirm.
 Option-Shift-Command-Q|	Log out of your macOS user account immediately, without being asked to confirm.
 
 ##Document shortcuts
-               Shortcut|              |	Description
+Shortcut|	Description
 --|--
 Command-B|	Boldface the selected text, or turn boldfacing on or off. 
 Command-I|	Italicize the selected text, or turn italics on or off.
