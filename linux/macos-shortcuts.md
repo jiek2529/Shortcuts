@@ -4,7 +4,7 @@
 
 ##Keys
 Keys| icon
------|-----
+---|---
 Command| ⌘
 Shift|   ⇧
 Option| ⌥
