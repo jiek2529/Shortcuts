@@ -1,7 +1,8 @@
-#MacOS Shortcuts
+#Mac keyboard shortcuts
 
 <https://support.apple.com/en-hk/HT201236>
 
+##Keys
 Keys| icon
 --|--: 
 Command| ⌘
@@ -11,7 +12,6 @@ Control| ⌃
 Caps Lock| ⇪
 Fn|&nbsp;
 
-------
 ##Cut, copy, paste, and other common shortcuts
 Shortcut| Description
 ---|--:
@@ -39,7 +39,6 @@ Shift-Command-3|	Screenshot: Take a screenshot of the entire screen. Learn more 
 Command-Comma (,)|	Preferences: Open preferences for the front app.
 
 ##Sleep, log out, and shut down shortcuts
-
 Shortcut| Description
 --|--:
 Power button| Tap to turn on your Mac or wake your Mac from sleep. 
@@ -53,7 +52,6 @@ Shift-Command-Q|	Log out of your macOS user account. You'll be asked to confirm.
 Option-Shift-Command-Q|	Log out of your macOS user account immediately, without being asked to confirm.
 
 ##Document shortcuts
-
 Shortcut|	Description
 --|--:
 Command-B|	Boldface the selected text, or turn boldfacing on or off. 
@@ -117,9 +115,8 @@ Shift–Command–Plus sign (+)|	Increase the size of the selected item. Command
 Shift–Command–Question mark (?)|	Open the Help menu.
 
 ##Finder shortcuts
-
 Shortcut| Description
---|--:
+--|--
 Command-D|	Duplicate the selected files.
 Command-E|	Eject the selected disk or volume.
 Command-F|	Start a Spotlight search in the Finder window.
