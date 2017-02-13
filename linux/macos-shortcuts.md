@@ -2,14 +2,14 @@
 
 <https://support.apple.com/en-hk/HT201236>
 
-|Keys| icon|
-|--|--: |
-|Command| ⌘|
-|Shift|   ⇧|
-|Option| ⌥|
-|Control| ⌃|
-|Caps Lock| ⇪|
-|Fn|&nbsp; |
+Keys| icon
+--|--: 
+Command| ⌘
+Shift|   ⇧
+Option| ⌥
+Control| ⌃
+Caps Lock| ⇪
+Fn|&nbsp;
 
 ------
 ##Cut, copy, paste, and other common shortcuts
@@ -41,7 +41,7 @@ Command-Comma (,)|	Preferences: Open preferences for the front app.
 ##Sleep, log out, and shut down shortcuts
 
 Shortcut| Description
---|--
+--|--:
 Power button| Tap to turn on your Mac or wake your Mac from sleep. 
 &nbsp;|Hold for 1.5 seconds while your Mac is awake to display a dialog asking if you want to restart, sleep, or shut down. If you don't want to wait 1.5 seconds, press Control–Power button or Control–Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png).
 &nbsp;| Hold for 5 seconds to force your Mac to turn off.
@@ -55,7 +55,7 @@ Option-Shift-Command-Q|	Log out of your macOS user account immediately, without 
 ##Document shortcuts
 
 Shortcut|	Description
---|--
+--|--:
 Command-B|	Boldface the selected text, or turn boldfacing on or off. 
 Command-I|	Italicize the selected text, or turn italics on or off.
 Command-U|	Underline the selected text, or turn underlining on or off.
@@ -119,7 +119,7 @@ Shift–Command–Question mark (?)|	Open the Help menu.
 ##Finder shortcuts
 
 Shortcut| Description
---|--
+--|--:
 Command-D|	Duplicate the selected files.
 Command-E|	Eject the selected disk or volume.
 Command-F|	Start a Spotlight search in the Finder window.
