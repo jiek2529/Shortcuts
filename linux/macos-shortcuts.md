@@ -14,7 +14,7 @@ Fn|&nbsp;
 
 ##Cut, copy, paste, and other common shortcuts
 Shortcut| Description
----|--:
+---|--
 Command-X|	Cut: Remove the selected item and copy it to the Clipboard.
 Command-C|	Copy the selected item to the Clipboard. This also works for files in the Finder.
 Command-V|	Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.
@@ -40,7 +40,7 @@ Command-Comma (,)|	Preferences: Open preferences for the front app.
 
 ##Sleep, log out, and shut down shortcuts
 Shortcut| Description
---|--:
+--|--
 Power button| Tap to turn on your Mac or wake your Mac from sleep. 
 &nbsp;|Hold for 1.5 seconds while your Mac is awake to display a dialog asking if you want to restart, sleep, or shut down. If you don't want to wait 1.5 seconds, press Control–Power button or Control–Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png).
 &nbsp;| Hold for 5 seconds to force your Mac to turn off.
@@ -53,7 +53,7 @@ Option-Shift-Command-Q|	Log out of your macOS user account immediately, without 
 
 ##Document shortcuts
 Shortcut|	Description
---|--:
+--|--
 Command-B|	Boldface the selected text, or turn boldfacing on or off. 
 Command-I|	Italicize the selected text, or turn italics on or off.
 Command-U|	Underline the selected text, or turn underlining on or off.
