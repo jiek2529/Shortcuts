@@ -15,28 +15,28 @@ Fn|&nbsp;
 ##Cut, copy, paste, and other common shortcuts
 Shortcut| Description
 ---|---
-Command-X|	Cut: Remove the selected item and copy it to the Clipboard.<br>**剪切:删除所选项目并将其拷贝到剪贴板。**
+Command-X|	Cut: Remove the selected item and copy it to the Clipboard.<br><font color=red>**剪切:删除所选项目并将其拷贝到剪贴板。**</font>
 Command-C|	Copy the selected item to the Clipboard. This also works for files in the Finder.<br>**<font color=red>拷贝所选项目至剪贴板。这也适用于Finder中的文件。</font>**
-Command-V|	Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.<br>粘贴
-Command-Z|	Undo the previous command. You can then press Command-Shift-Z to Redo, reversing the undo command. In some apps, you can undo and redo multiple commands.<br>
-Command-A|	Select All items.<br>
-Command-F|	Find: Open a Find window, or find items in a document.<br>
-Command-G|	Find Again: Find the next occurrence of the item previously found. To find the previous occurrence, press Command-Shift-G.<br>
-Command-H|	Hide the windows of the front app. To view the front app but hide all other apps, press Command-Option-H.<br>
-Command-M|	Minimize the front window to the Dock. To minimize all windows of the front app, press Command-Option-M.<br>
-Command-N|	New: Open an new document or window.<br>
-Command-O|	Open the selected item, or open a dialog to select a file to open.<br>
-Command-P|	Print the current document.
-Command-S|	Save the current document.
-Command-W|	Close the front window. To close all windows of the app, press Command-Option-W.
-Command-Q|	Quit the app.
-Option-Command-Esc|	Force Quit: Choose an app to force quit. Or press Command-Shift-Option-Esc and hold for 3 seconds to force just the front app to quit.
-Command–Space bar|	Spotlight: Show or hide the Spotlight search field. To perform a Spotlight search from a Finder window, press Command–Option–Space bar. If you use multiple input sources to type in different languages, these shortcuts change input sources instead of showing Spotlight.
-Space bar|	Quick Look: Use Quick Look to preview the selected item.
-Command-Tab|	Switch apps: Switch to the next most recently used app among your open apps.
-Shift-Command-Tilde (~)|	Switch windows: Switch to the next most recently used window of the front app.
-Shift-Command-3|	Screenshot: Take a screenshot of the entire screen. Learn more screenshot shortcuts.
-Command-Comma (,)|	Preferences: Open preferences for the front app.
+Command-V|	Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.<br>**<font color=red>将剪贴板的内容粘贴到当前文档或应用程序中。这也适用于Finder中的文件</font>**
+Command-Z|	Undo the previous command. You can then press Command-Shift-Z to Redo, reversing the undo command. In some apps, you can undo and redo multiple commands.<br><font color=red>**撤销上一个命令。你可以按Command-Shift-Z重做，恢复撤销的命令。在某些应用程序中，你可以撤销和重做多个命令。**</font>
+Command-A|	Select All items.<br><font color=red>**全选**</font> 
+Command-F|	Find: Open a Find window, or find items in a document.<br><font color=red>**查找：打开查找窗口，或查找文档中的项目。 **</font>
+Command-G|	Find Again: Find the next occurrence of the item previously found. To find the previous occurrence, press Command-Shift-G.<br><font color=red>**再次查找，查找已找到项的下一个匹配项。查找前一个匹配项，按Command-Shift-G**</font>
+Command-H|	Hide the windows of the front app. To view the front app but hide all other apps, press Command-Option-H.<br><font color=red>**隐藏最前端应用窗口。显示前端应用但隐藏其它应用，按Command-Option-H。**</font>
+Command-M|	Minimize the front window to the Dock. To minimize all windows of the front app, press Command-Option-M.<br><font color=red>**最小化前端窗口到Dock。最小化所有前端应用窗口，按：Command-Option-M**</font> 
+Command-N|	New: Open an new document or window.<br><font color=red>**新建：打开新文档或窗口。**</font>
+Command-O|	Open the selected item, or open a dialog to select a file to open.<br><font color=red>**打开选择项，或打开对话框去选择一个文件打开。**</font>
+Command-P|	Print the current document.<br><font color=red>**打印当前文档。**</font>
+Command-S|	Save the current document.<br><font color=red>**保存当前文档**</font>
+Command-W|	Close the front window. To close all windows of the app, press Command-Option-W.<br><font color=red>**关闭前端窗口。关闭所有应用窗口，按Command-Option-W。**</font>
+Command-Q|	Quit the app.<br><font color=red>**退出应用。**</font>
+Option-Command-Esc|	Force Quit: Choose an app to force quit. Or press Command-Shift-Option-Esc and hold for 3 seconds to force just the front app to quit.<br><font color=red>**强制退出:选择应用去强制退出。或按住Command-Shift-Option-Esc 3秒,只是强制关闭前面应用程序。**</font>
+Command–Space bar|	Spotlight: Show or hide the Spotlight search field. To perform a Spotlight search from a Finder window, press Command–Option–Space bar. If you use multiple input sources to type in different languages, these shortcuts change input sources instead of showing Spotlight.<br><font color=red>**Spotlight聚光灯：显示或隐藏spotlight搜索字段。在Finder窗口上执行Spotlight搜索，按Command–Option–Space bar。如何使用多个输入源键入的语言，这些快捷键将改变输入源，而不是显示Spotlight**</font>
+Space bar|	Quick Look: Use Quick Look to preview the selected item.<br><font color=red>**快速查看：使用快速查看去预览选择项目。**</font>
+Command-Tab|	Switch apps: Switch to the next most recently used app among your open apps.<br><font color=red>**切换应用：切换到您打开的应用程序中下一个最近使用的应用程序。**</font>
+Shift-Command-Tilde (~)|	Switch windows: Switch to the next most recently used window of the front app.<br><font color=red>**切换窗口：切换到您打开的应用程序窗口中的下一个最近打开的应用程序窗口。**</font>
+Shift-Command-3|	Screenshot: Take a screenshot of the entire screen. [Learn more screenshot shortcuts](https://support.apple.com/en-us/HT201361).<br><font color=red>**截屏：获取当前整个屏幕。**</font>
+Command-Comma (,)|	Preferences: Open preferences for the front app.<br><font color=red>**偏好设置：打开前端应用程序的偏好设置。**</font>
 
 ##Sleep, log out, and shut down shortcuts
 Shortcut| Description
