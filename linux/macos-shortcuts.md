@@ -9,7 +9,7 @@
 |Option| ⌥|
 |Control| ⌃|
 |Caps Lock| ⇪|
-|Fn| |
+|Fn|&nbsp; |
 
 ------
 ##Cut, copy, paste, and other common shortcuts
