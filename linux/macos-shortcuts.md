@@ -2,19 +2,19 @@
 
 <https://support.apple.com/en-hk/HT201236>
 
-Keys| icon
---|--
-Command| ⌘
-Shift|   ⇧
-Option| ⌥
-Control| ⌃
-Caps Lock| ⇪
-Fn| |
+|Keys| icon|
+|--|--: |
+|Command| ⌘|
+|Shift|   ⇧|
+|Option| ⌥|
+|Control| ⌃|
+|Caps Lock| ⇪|
+|Fn| |
 
 ------
 ##Cut, copy, paste, and other common shortcuts
 Shortcut| Description
----|--
+---|--:
 Command-X|	Cut: Remove the selected item and copy it to the Clipboard.
 Command-C|	Copy the selected item to the Clipboard. This also works for files in the Finder.
 Command-V|	Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.
@@ -43,8 +43,8 @@ Command-Comma (,)|	Preferences: Open preferences for the front app.
 Shortcut| Description
 --|--
 Power button| Tap to turn on your Mac or wake your Mac from sleep. 
-||Hold for 1.5 seconds while your Mac is awake to display a dialog asking if you want to restart, sleep, or shut down. If you don't want to wait 1.5 seconds, press Control–Power button or Control–Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png).
-|| Hold for 5 seconds to force your Mac to turn off.
+&nbsp;|Hold for 1.5 seconds while your Mac is awake to display a dialog asking if you want to restart, sleep, or shut down. If you don't want to wait 1.5 seconds, press Control–Power button or Control–Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png).
+&nbsp;| Hold for 5 seconds to force your Mac to turn off.
 Control–Command–Power button|	Force your Mac to restart.
 Control–Shift–(Power button or Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png))|	Put your displays to sleep.
 Control–Command–Media Eject|	Quit all apps, then restart your Mac. If any open documents have unsaved changes, you'll be asked whether you want to save them.
@@ -53,6 +53,7 @@ Shift-Command-Q|	Log out of your macOS user account. You'll be asked to confirm.
 Option-Shift-Command-Q|	Log out of your macOS user account immediately, without being asked to confirm.
 
 ##Document shortcuts
+
 Shortcut|	Description
 --|--
 Command-B|	Boldface the selected text, or turn boldfacing on or off. 
@@ -102,7 +103,7 @@ Control-O|	Insert a new line after the insertion point.
 Control-T|	Swap the character behind the insertion point with the character in front of the insertion point.
 Command–Left Curly Bracket ({)|	Left align.
 Command–Right Curly Bracket (})|	Right align.
-Shift–Command–Vertical bar (\|)|	Center align.
+Shift–Command–Vertical bar (&#166;)|	Center align.
 Option-Command-F|	Go to the search field. 
 Option-Command-T|	Show or hide a toolbar in the app.
 Option-Command-C|	Copy Style: Copy the formatting settings of the selected item to the Clipboard.
@@ -111,15 +112,13 @@ Option-Shift-Command-V|	Paste and Match Style: Apply the style of the surroundin
 Option-Command-I|	Show or hide the inspector window.
 Shift-Command-P|	Page setup: Display a window for selecting document settings.
 Shift-Command-S|	Display the Save As dialog, or duplicate the current document.
-Shift–Command–
-Minus sign (-)    |	Decrease the size of the selected item.
-Shift–Command–
-Plus sign (+)|	Increase the size of the selected item. Command–Equal sign (=) performs the same function.
-Shift–Command–
-Question mark (?)|	Open the Help menu.
+Shift–Command– Minus sign (-)|	Decrease the size of the selected item.
+Shift–Command–Plus sign (+)|	Increase the size of the selected item. Command–Equal sign (=) performs the same function.
+Shift–Command–Question mark (?)|	Open the Help menu.
 
 ##Finder shortcuts
-          Shortcut| Description
+
+Shortcut| Description
 --|--
 Command-D|	Duplicate the selected files.
 Command-E|	Eject the selected disk or volume.
