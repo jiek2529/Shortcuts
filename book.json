@@ -32,12 +32,12 @@
 "pluginsConfig": {
     "facebook": {
         "appKey": "206811166450251"
-    },
+        },
     "include-codeblock": {
         "template": "ace"
-        }
-    },
+        },
     "ga" {
         "token": "UA-91821795-1"
+        }
     }
 }
