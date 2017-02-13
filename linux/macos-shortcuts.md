@@ -2,15 +2,15 @@
 
 <https://support.apple.com/en-hk/HT201236>
 
-##Keys
-```
-Command ⌘
-Shift ⇧
-Option ⌥
-Control ⌃
-Caps Lock ⇪
-Fn
-```
+Keys| icon
+--|--
+Command| ⌘
+Shift|   ⇧
+Option| ⌥
+Control| ⌃
+Caps Lock| ⇪
+Fn| |
+
 ------
 ##Cut, copy, paste, and other common shortcuts
 Shortcut| Description
@@ -102,7 +102,7 @@ Control-O|	Insert a new line after the insertion point.
 Control-T|	Swap the character behind the insertion point with the character in front of the insertion point.
 Command–Left Curly Bracket ({)|	Left align.
 Command–Right Curly Bracket (})|	Right align.
-Shift–Command–Vertical bar (|)|	Center align.
+Shift–Command–Vertical bar (\|)|	Center align.
 Option-Command-F|	Go to the search field. 
 Option-Command-T|	Show or hide a toolbar in the app.
 Option-Command-C|	Copy Style: Copy the formatting settings of the selected item to the Clipboard.
@@ -119,7 +119,7 @@ Shift–Command–
 Question mark (?)|	Open the Help menu.
 
 ##Finder shortcuts
-          Shortcut|          |	Description
+          Shortcut| Description
 --|--
 Command-D|	Duplicate the selected files.
 Command-E|	Eject the selected disk or volume.
