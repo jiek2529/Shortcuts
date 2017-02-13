@@ -15,17 +15,17 @@ Fn|&nbsp;
 ##Cut, copy, paste, and other common shortcuts
 Shortcut| Description
 ---|---
-Command-X|	Cut: Remove the selected item and copy it to the Clipboard.
-Command-C|	Copy the selected item to the Clipboard. This also works for files in the Finder.
-Command-V|	Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.
-Command-Z|	Undo the previous command. You can then press Command-Shift-Z to Redo, reversing the undo command. In some apps, you can undo and redo multiple commands.
-Command-A|	Select All items.
-Command-F|	Find: Open a Find window, or find items in a document.
-Command-G|	Find Again: Find the next occurrence of the item previously found. To find the previous occurrence, press Command-Shift-G.
-Command-H|	Hide the windows of the front app. To view the front app but hide all other apps, press Command-Option-H.
-Command-M|	Minimize the front window to the Dock. To minimize all windows of the front app, press Command-Option-M.
-Command-N|	New: Open an new document or window.
-Command-O|	Open the selected item, or open a dialog to select a file to open.
+Command-X|	Cut: Remove the selected item and copy it to the Clipboard.<br>**剪切:删除所选项目并将其拷贝到剪贴板。**
+Command-C|	Copy the selected item to the Clipboard. This also works for files in the Finder.<br>**<font color=red>拷贝所选项目至剪贴板。这也适用于Finder中的文件。</font>**
+Command-V|	Paste the contents of the Clipboard into the current document or app. This also works for files in the Finder.<br>粘贴
+Command-Z|	Undo the previous command. You can then press Command-Shift-Z to Redo, reversing the undo command. In some apps, you can undo and redo multiple commands.<br>
+Command-A|	Select All items.<br>
+Command-F|	Find: Open a Find window, or find items in a document.<br>
+Command-G|	Find Again: Find the next occurrence of the item previously found. To find the previous occurrence, press Command-Shift-G.<br>
+Command-H|	Hide the windows of the front app. To view the front app but hide all other apps, press Command-Option-H.<br>
+Command-M|	Minimize the front window to the Dock. To minimize all windows of the front app, press Command-Option-M.<br>
+Command-N|	New: Open an new document or window.<br>
+Command-O|	Open the selected item, or open a dialog to select a file to open.<br>
 Command-P|	Print the current document.
 Command-S|	Save the current document.
 Command-W|	Close the front window. To close all windows of the app, press Command-Option-W.
@@ -41,9 +41,7 @@ Command-Comma (,)|	Preferences: Open preferences for the front app.
 ##Sleep, log out, and shut down shortcuts
 Shortcut| Description
 ---|---
-Power button| Tap to turn on your Mac or wake your Mac from sleep.
-&nbsp;|Hold for 1.5 seconds while your Mac is awake to display a dialog asking if you want to restart, sleep, or shut down. If you don't want to wait 1.5 seconds, press Control–Power button or Control–Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png).
-&nbsp;| Hold for 5 seconds to force your Mac to turn off.
+Power button| Tap to turn on your Mac or wake your Mac from sleep. <br><br>Hold for 1.5 seconds while your Mac is awake to display a dialog asking if you want to restart, sleep, or shut down. If you don't want to wait 1.5 seconds, press Control–Power button or Control–Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png).<br><br>Hold for 5 seconds to force your Mac to turn off.
 Control–Command–Power button|	Force your Mac to restart.
 Control–Shift–(Power button or Media Eject![](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/il/eject-button-icon.png))|	Put your displays to sleep.
 Control–Command–Media Eject|	Quit all apps, then restart your Mac. If any open documents have unsaved changes, you'll be asked whether you want to save them.
