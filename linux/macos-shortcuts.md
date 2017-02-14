@@ -99,7 +99,7 @@ Control-O|	Insert a new line after the insertion point.
 Control-T|	Swap the character behind the insertion point with the character in front of the insertion point.
 Command–Left Curly Bracket ({)|	Left align.
 Command–Right Curly Bracket (})|	Right align.
-Shift–Command–Vertical bar (&#166;)|	Center align.
+Shift–Command–Vertical bar (&#124;)|	Center align.
 Option-Command-F|	Go to the search field.
 Option-Command-T|	Show or hide a toolbar in the app.
 Option-Command-C|	Copy Style: Copy the formatting settings of the selected item to the Clipboard.
