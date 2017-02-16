@@ -17,15 +17,34 @@ Command       |  Description
 ##Shortcut快捷键
 Shortcut      |  Description
 ---|---
-Shift + 4 | 行尾
-Shift + 6 | 行首
-shift + g | 来 to first line of the file. 跳文件首行
-   g g    | jump to last line of the file.
-   y y    | copy current line
-   3 y y  | copy the current line after the 3 lines.
-   d d    | delete current line
-   3 d d  | delete the current line after the 3 lines.
-   
+Shift + 4 | 行尾  $
+Shift + 6 | 行首  ^
+shift + g | go to last line of the file. 跳文件尾行
+   g g    | go to first line of the file. 跳文件首行
+   y y    | copy current line 拷贝行
+   3 y y  | copy the current line after the 3 lines. 拷贝当前行起3行
+   d d    | delete current line 删除行
+   3 d d  | delete the current line after the 3 lines.删除当前行起3行
+   p      | paste 粘贴
+   10     | 向后跳 10行
+   H      | 光标移动到屏幕最顶行
+   M      | 光标移动到屏幕中间行
+   G      | 光标移动到屏幕最尾行
+
+##翻屏
+Shortcut      |  Description
+---|---
+ctrl + f      | 下翻一屏。
+ctrl + b      |  上翻一屏。
+ctrl + d      | 下翻半屏。
+ctrl + u      |  上翻半屏。
+ctrl + e      |  向下滚动一行。
+ctrl + y      |  向上滚动一行。
+n%            | 到文件n%的位置。
+zz            |  将当前行移动到屏幕中央。
+zt            | 将当前行移动到屏幕顶端。
+zb            | 将当前行移动到屏幕底端。
+
 ------
 
 https://www.ccsf.edu/Pub/Fac/vi.html
