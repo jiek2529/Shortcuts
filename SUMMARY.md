@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+1. [Introduction](README.md)
 * [Linux](linux/README.md)
   * [MacOS Shortcuts](linux/macos-shortcuts.md)
     * [MacOS Shortcuts](linux/macos-shortcuts.md#Keys)
@@ -9,3 +9,4 @@
     * [Document shortcuts](linux/macos-shortcuts.md#document-shortcuts)
     * [Finder shortcuts](linux/macos-shortcuts.md#finder-shortcuts)
   * [Vim](linux/vim.md)
+* 常用特殊符

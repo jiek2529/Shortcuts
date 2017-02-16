@@ -1,6 +1,7 @@
 {
 "author": "Jiek Gao <jiek@icitsoft.com>",
 "description": "",
+"version": "2.0.1",
 "extension": null,
 "generator": "site",
 "links": {
@@ -24,10 +25,13 @@
     "anchor-navigation-ex",
     "splitter",
     "expandable-chapters",
-    
+    "include",
+    "include-codeblock",
+    "ace",
+    "emphasize",
+    "tatex",
     "facebook",
     "ga",
-    "ace",
     "mcqx"
 ],
 "pluginsConfig": {
@@ -35,7 +39,7 @@
         "appKey": "206811166450251"
         },
     "include-codeblock": {
-        "template": "ace"
+        "template": "acefull"
         },
     "ga": {
         "token": "UA-91821795-1"
