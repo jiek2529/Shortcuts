@@ -23,7 +23,8 @@ shift + g | 来 to first line of the file. 跳文件首行
    g g    | jump to last line of the file.
    y y    | copy current line
    3 y y  | copy the current line after the 3 lines.
-
+   d d    | delete current line
+   3 d d  | delete the current line after the 3 lines.
 ------
 https://www.ccsf.edu/Pub/Fac/vi.html
 UNIX: vi Editor

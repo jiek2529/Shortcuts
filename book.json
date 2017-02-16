@@ -1,7 +1,7 @@
 {
 "author": "Jiek Gao <jiek@icitsoft.com>",
 "description": "",
-"version": "2.0.1",
+"gitbook": "2.0.1",
 "extension": null,
 "generator": "site",
 "links": {
