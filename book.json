@@ -21,10 +21,12 @@
 "variables": {},
 "language": "zh-hans",
 "plugins": [
+    "anchors",
+    "anchor-navigation-ex",
     "splitter",
     "expandable-chapters",
     "facebook",
-    "ga","-comment"
+    "ga"
 ],
 "pluginsConfig": {
     "facebook": {
