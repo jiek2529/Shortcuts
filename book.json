@@ -25,6 +25,7 @@
     "splitter",
     "expandable-chapters",
     "facebook",
+    "-lunr", "-search", "search-plus",
     "ga"
 ],
 "pluginsConfig": {
