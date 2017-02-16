@@ -21,25 +21,14 @@
 "variables": {},
 "language": "zh-hans",
 "plugins": [
-    "anchors",
-    "anchor-navigation-ex",
     "splitter",
     "expandable-chapters",
-    "include",
-    "include-codeblock",
-    "ace",
-    "emphasize",
-    "katex",
     "facebook",
-    "ga","-comment",
-    "mcqx"
+    "ga","-comment"
 ],
 "pluginsConfig": {
     "facebook": {
         "appKey": "206811166450251"
-        },
-    "include-codeblock": {
-        "template": "acefull"
         },
     "ga": {
         "token": "UA-91821795-1"
