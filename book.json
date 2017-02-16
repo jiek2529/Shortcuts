@@ -1,7 +1,6 @@
 {
 "author": "Jiek Gao <jiek@icitsoft.com>",
 "description": "",
-"gitbook": "2.0.1",
 "extension": null,
 "generator": "site",
 "links": {
@@ -26,7 +25,7 @@
     "splitter",
     "expandable-chapters",
     "facebook",
-    "ga","-comment"
+    "ga"
 ],
 "pluginsConfig": {
     "facebook": {
