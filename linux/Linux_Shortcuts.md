@@ -1,8 +1,21 @@
-#Linux Shortcuts
+#Linux Shortcuts(Terminal)
+
+[List of Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+
+[wikipedia-find](https://en.wikipedia.org/wiki/Find)
 
 Shortcut| Desciption
 ---|---
-Ctrl-w| 删除前一段参数
+Ctrl - a| 行首
+Ctrl - e| 行尾
+Ctrl - w| 删除前一段参数
+Ctrl - u| 删除光标位字符至行首（常用密码输错）
+Ctrl - k| 删除光标位字符至行尾
+Ctrl - r| history中搜索命令去执行
+Ctrl - y| 插入刚删除的单词
+Ctrl - c| 终止操作
+Ctrl - d| logout
+Ctrl - l （command-k）| 清屏
 
 ##grep
 Linux 查找包含指定字符串的所有文件，及所在行
