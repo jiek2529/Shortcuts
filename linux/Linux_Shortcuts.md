@@ -39,3 +39,48 @@ find -type f -name '*.php'|xargs grep 'GroupRecord'
 ```
 
 ##find
+find 目录中搜索文件
+```text
+查找指定时间内修改过的文件:  
+1. 48小时内修改过的文件 > find -atime -2
+2. 关键字查找 > find . -name "*.log"
+3. 目录按权限查文件 > find . -perm 777
+4. 目录按类型查找 > find . -type f name "*.log"
+5. 目录查找并排序 > find . -type d | sort
+6. 目录按大小查找 > find . -size +1000c -print    # c是字节，+大于， -小于
+```
+1．命令格式：
+find pathname -options [-print -exec -ok ...]    
+
+**-ok -exec 表示操作前要询问用户。**
+**-print 将查找到的文件输出到标准输出**
+**-exec    command    {} \;       -----将查到的文件执行command操作,{} 和 \;之间有空格
+**
+```text
+1. 基本用法：
+      find / -name 文件名      find ver1.d ver2.d -name '*.c' -print    查找ver1.d,ver2.d *.c文件并打印      find . -type d -print 从当前目录查找，仅查找目录，找到后，打印路径名。可用于打印目录结构。
+2. 无错误查找：
+      find / -name access_log 2 >/dev/null
+3. 按尺寸查找：
+      find / -size 1500c （查找1,500字节大小的文件，c表示字节）
+      find / -size +1500c （查找大于1,500字节大小的文件，+表示大于）    
+      find / -size +1500c （查找小于1,500字节大小的文件，-表示小于）    
+4. 按时间：
+      find / -amin n 最后n分钟 
+      find / -atime n 最后n天
+      find / -cmin n 最后n分钟改变状态
+      find / -ctime n 最后n天改变状态
+5. 其它：
+      find / -empty 空白文件、空白文件夹、没有子目录的文件夹
+      find / -false 查找系统中总是错误的文件
+      find / -fstype type 找存在于指定文件系统的文件，如type为ext2
+      find / -gid n 组id为n的文件
+      find / -group gname 组名为gname的文件
+      find / -depth n 在某层指定目录中优先查找文件内容
+      find / -maxdepth levels 在某个层次目录中按递减方式查找
+6. 逻辑
+      -and 条件与 -or 条件或
+7. 查找字符串
+      find . -name '*.html' -exec grep 'mailto:'{}
+```
+
