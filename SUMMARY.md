@@ -1,6 +1,6 @@
 # Summary
 
-1. [Introduction](README.md)
+* [Introduction](README.md)
 * [Linux](linux/README.md)
   * [MacOS Shortcuts](linux/macos-shortcuts.md)
     * [MacOS Shortcuts](linux/macos-shortcuts.md#Keys)
@@ -8,5 +8,7 @@
     * [Sleep, log out, and shut down shortcuts](linux/macos-shortcuts.md#sleep-log-out-and-shut-down-shortcuts)
     * [Document shortcuts](linux/macos-shortcuts.md#document-shortcuts)
     * [Finder shortcuts](linux/macos-shortcuts.md#finder-shortcuts)
+  * [Linux Shortcuts](linux/Linux_Shortcuts.md)
   * [Vim](linux/vim.md)
-* [常用特殊符](/special_character.md)
+* [常用特殊符](special_character.md)
+
