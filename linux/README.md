@@ -1,4 +1,5 @@
 # Shortcuts for Linux
 
-##[MacOS Shortcuts](/linux/macos-shortcuts.md)
-##[VI | VIM Shortcuts](/linux/vim.md)
+##[MacOS Shortcuts](macos-shortcuts.md)
+##[Linux Shortcuts](Linux_Shortcuts.md)
+##[VI | VIM Shortcuts](vim.md)
