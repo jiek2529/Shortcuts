@@ -62,7 +62,7 @@ _ |	underline |	“_”是下划线，英文就是:underline
 * |	asterisk, multiply, star, pointer |	* asterisk, multiply, star, pointer 星号，乘号，星，指针
 / |	slash, divide, oblique |	/ slash, divide, oblique 斜线，斜杠，除号
 // |	slash-slash, comment |	// slash-slash, comment 双斜线，注释符
-# |	pound |	# pound 井号
+\# |	pound |	# pound 井号
 \ |	backslash, sometimes |	\backslash, sometimes
 &nbsp; |	escape |	escape 反斜线转义符，有时表示转义符或续行符
 ~ |	tilde |	~tilde波浪符
@@ -159,3 +159,24 @@ $| & #36;| 美元符号
 —| & mdash;| & #151;| 长破折号
 •| & middot;| & #183;| 圆点，有时被用来作为菜单分隔符
 ↑| & uarr;| & #8593;| 上箭头，常用作网页“返回页面顶部”标识
+
+##physics symbol 物理符号
+cn voice | en voice
+---|---
+点| point
+线| line
+三角形| triangle
+矩形 长方形| Rectangular rectangle
+菱形| diamond
+正方形| square
+五角形| pentagon
+六边形| hexagon
+七边形| Heptagon
+八边形| Octagon
+三角柱| Triangular prism
+方柱| Square column
+圆锥| Cone
+三角锥| Triangle cone
+圆柱体| Cylinders
+椭圆| oval
+椭圆柱| Elliptical column
