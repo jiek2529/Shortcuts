@@ -15,7 +15,7 @@ symbol | EN Description | CN Description
 § | section sign | 章节符
 Co., Ltd. | company limited | 有限公司
 inc. | incorporated | 公司，团体组织
-corporation | Microsoft Corporation | 公司
+corp. \| corporation | Microsoft Corporation | 公司
 Holding Ltd. | Holding Limited | 控股有限公司
 Technology Co., Ltd | Technology Company Limited | 科技有限公司
 Computing Ltd | Computing Limited | 计算有限公司
