@@ -2,6 +2,22 @@
 
 http://tool.chinaz.com/tools/htmlchar.aspx
 
+##常见符号 common symbols
+
+symbol | EN Description | CN Description
+---|---|---
+© | Copyright sign | 版权标志
+™ | Trade Mark |商标
+® | Registered trademark | 注册商标
+℠ | service mark | 服务标志
+@ | at | 在
+¶ | pilcrow | 段落符
+§ | section sign | 章节符
+Co., Ltd. | company limited | 有限公司
+inc. | incorporated | 公司，团体组织
+
+https://en.wikipedia.org/wiki/Copyright_symbol
+
 ##character 字符与中英文读法
 
 special_character | EN Description | CN Description
@@ -27,6 +43,7 @@ _ |	underline |	“_”是下划线，英文就是:underline
 ≥ |	is more than or equal to |	≥ is more than or equal to 大于或等于号
 % |	per cent |	% per cent 百分之...
 ‰ |	per mill |	‰ per mill 千分之...
+‱ | basis point	 | 万分之...
 ∞ |	infinity |	∞ infinity 无限大号
 ∝ |	varies as |	∝ varies as 与...成比例
 √ |	(square) root |	√ (square) root 平方根
