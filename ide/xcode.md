@@ -54,6 +54,6 @@ The tables use the following symbols to represent the modifier keys used in conj
 
 This document consists of three sections, each with tables of commands and shortcuts presented in a particular order:
 
-1. [Menu Command Shortcuts (By Menu)](/ide/xcode_menu.md)
-+ Text Commands (By Type)
-+ Other System and Application Shortcuts
+1. [Menu Command Shortcuts \(By Menu\)](/ide/xcode_menu.md)
++ [Text Commands \(By Type\)](/ide/xcode_text_commands.md)
++ [Other System and Application Shortcuts](/ide/Xcode_Other-System-and-Application-Shortcuts.md)
