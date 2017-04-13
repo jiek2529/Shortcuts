@@ -16,6 +16,6 @@
     * [Xcode menu Command Shortcuts](ide/xcode_menu.md)
     * [Xcode Text Commands](ide/xcode_text_commands.md)
     * [Other System and Application Shortcuts](ide/Xcode_Other-System-and-Application-Shortcuts.md)
-  * [Sublimit](ide/sublimit.md)
+  * [Sublime-Text](ide/sublime-text.md)
 * [常用特殊符](special_character.md)
 
