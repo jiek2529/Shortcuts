@@ -21,10 +21,10 @@ Table 1-9  Help menu
 | Quit Xcode
 | ⌘Q
 | Command-Q
-| Table 1-2  File menu command shortcuts
-| Command
-| Key Binding
-| Shortcut
+
+##Table 1-2  File menu command shortcuts
+| Command| Key Binding| Shortcut
+|-
 | New Tab
 | ⌘T
 | Command-T
@@ -145,10 +145,10 @@ Table 1-9  Help menu
 | Print…
 | ⌘P
 | Command-P
-| Table 1-3  Edit menu command shortcuts
-| Command
-| Key Binding
-| Shortcut
+
+##Table 1-3  Edit menu command shortcuts
+| Command| Key Binding| Shortcut
+|-
 | Undo
 | ⌘Z
 | Command-Z
@@ -290,11 +290,10 @@ Table 1-9  Help menu
 |  
 | Encapsulate
 |  
-|  
-| Table 1-4  View menu command shortcuts
-| Command
-| Key Binding
-| Shortcut
+
+##Table 1-4  View menu command shortcuts
+| Command| Key Binding| Shortcut
+|-
 | Project
 | ⌘1
 | Command-1
@@ -395,12 +394,10 @@ Table 1-9  Help menu
 | Show Debug area
 | ⇧⌘Y
 | Shift-Command-Y
-| Table 1-5  Navigate menu command shortcuts
-| Context
-| Command
-| Key Binding
-| Shortcut
-|  
+
+##Table 1-5  Navigate menu command shortcuts
+| Context| Command| Key Binding| Shortcut
+|-
 | Reveal in Project Navigator
 | ⌘L
 | Command-L
@@ -463,11 +460,10 @@ Table 1-9  Help menu
 | Jump and Fix Previous Issue
 | ⌃⌘"
 | Control-Command-"
-| Table 1-6  Editor menu command shortcuts
-| Context
-| Command
-| Key Binding
-| Shortcut
+
+##Table 1-6  Editor menu command shortcuts
+| Context| Command| Key Binding| Shortcut
+|-
 | Data model
 | Show Grid
 |  
@@ -729,11 +725,10 @@ Table 1-9  Help menu
 | Overwrite Mode
 | ⌥⇧⌘O
 | Option-Shift-Command-O
-| Table 1-7  Product menu command shortcuts
-| Command
-| Variant
-| Key Binding
-| Shortcut
+
+##Table 1-7  Product menu command shortcuts
+| Command| Variant| Key Binding| Shortcut
+|-
 | Run
 | ⌘R
 | Command-R
@@ -848,10 +843,10 @@ Table 1-9  Help menu
 |  
 |  
 | 1 Opens the scheme editing dialog for editing prior to performing the chosen command.
-| Table 1-8  Window menu command shortcuts
-| Command
-| Key Binding
-| Shortcut
+
+##Table 1-8  Window menu command shortcuts
+| Command| Key Binding| Shortcut
+|-
 | Minimize
 | ⌘M
 | Command-M
@@ -872,11 +867,10 @@ Table 1-9  Help menu
 | Shift-Command-2
 | Bring All to Front
 |  
-|  
-| Table 1-9  Help menu command shortcuts
-| Command
-| Key Binding
-| Shortcut
+
+##Table 1-9  Help menu command shortcuts
+| Command| Key Binding| Shortcut
+|-
 | Xcode Help
 |  
 |  
