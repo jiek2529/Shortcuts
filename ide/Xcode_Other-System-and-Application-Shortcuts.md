@@ -15,7 +15,7 @@ If your application does not perform the task associated with a recommended shor
 
 For guidance on creating new keyboard shortcuts, see macOS Human Interface Guidelines.
 
-Table 3-1  Common system and application shortcuts
+##Table 3-1  Common system and application shortcuts
 
 | Primary Key | Key sequence |  | Associated action
 |-
@@ -87,7 +87,7 @@ Table 3-1  Common system and application shortcuts
 | H| ⌥ ⌘ H| | Hide the windows of all other running applications (equivalent to the Hide Others command).
 | I| ⌘ I| | Italicize the selected text or toggle italic text on or off (equivalent to the Italic command).
 | I| ⌘ I| | Display an Info window.
-| ⌥ ⌘ I| | Display an inspector window.
+| I| ⌥ ⌘ I| | Display an inspector window.
 | J| ⌘ J| | Scroll to a selection.
 | M| ⌘ M| | Minimize the active window to the Dock (equivalent to the Minimize command).
 | M| ⌥ ⌘ M| | Minimize all windows of the active application to the Dock (equivalent to the Minimize All command).
@@ -105,7 +105,7 @@ Table 3-1  Common system and application shortcuts
 | U| ⌘ U| | Underline the selected text or turn underlining on or off (equivalent to the Underline command).
 | V| ⌘ V| | Insert the Clipboard contents at the insertion point (equivalent to the Paste command).
 | V| ⌥ ⌘ V| | Apply the style of one object to the selected object (equivalent to the Paste Style command).
-| V| ⌥ ⌘ ⌘ V| Apply the style of the surrounding text to the inserted object (equivalent to the Paste and Match Style command).
+| V| ⌥ ⌘ ⌘ V| | Apply the style of the surrounding text to the inserted object (equivalent to the Paste and Match Style command).
 | V| ⌃ ⌘ V| | Apply formatting settings to the selected object (equivalent to the Paste Ruler command).
 | W| ⌘ W| | Close the active window (equivalent to the Close command).
 | W| ⇧ ⌘ W| | Close a file and its associated windows (equivalent to the Close File command).
