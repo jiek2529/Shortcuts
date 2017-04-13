@@ -157,64 +157,26 @@ Table 1-9  Help menu
 ##Table 1-5  Navigate menu command shortcuts
 | Context| Command| Key Binding| Shortcut
 |-
-| Reveal in Project Navigator
-| ⌘L
-| Command-L
-| Open in Adjacent Editor
-| ⌘<
-| Command-<
-| Go Forward
-| ⌃⌘⇢
-| Control-Command-Right Arrow
-| Go Forward in Alternate Editor
-| ⌃⌥⌘⇢
-| Control-Option-Command-Right Arrow
-| Go Back
-| ⌃⌘⇠
-| Control-Command-Left Arrow
-| Go Back in Alternate Editor
-| ⌃⌥⌘⇠
-| Control-Option-Command-Left Arrow
-| Jump to Selection
-| ⌘J
-| Command-J
-| Jump to Definition
-| ⇧⌘D
-| Shift-Command-D
-| Move Focus To Next Area
-| ⌥⌘K
-| Option-Command-K
-| Move Focus To Previous Area
-| ⌥⇧⌘K
-| Option-Shift-Command-K
-| Interface Builder
-| Jump to Next Object with Clipped Content
-| Jump to Previous Object with Clipped Content
-| Source editor
-| Jump to Counterpart
-| ⌃⌘⇡
-| Control-Command-Up Arrow
-| Jump To…
-| ⇧⌘J
-| Shift-Command-J
-| Jump to Next Placeholder
-| ⌃/
-| Control-/
-| Jump to Previous Placeholder
-| ⌃?
-| Control-?
-| Jump to Next Issue
-| ⌘'
-| Command-'
-| Jump and Fix Next Issue
-| ⌃⌘'
-| Control-Command-'
-| Jump to Previous Issue
-| ⌘"
-| Command-"
-| Jump and Fix Previous Issue
-| ⌃⌘"
-| Control-Command-"
+|| Reveal in Project Navigator| ⌘L| Command-L
+|| Open in Adjacent Editor| ⌘<| Command-<
+|| Go Forward| ⌃⌘⇢| Control-Command-Right Arrow
+|| Go Forward in Alternate Editor| ⌃⌥⌘⇢| Control-Option-Command-Right Arrow
+|| Go Back| ⌃⌘⇠| Control-Command-Left Arrow
+|| Go Back in Alternate Editor| ⌃⌥⌘⇠| Control-Option-Command-Left Arrow
+|| Jump to Selection| ⌘J| Command-J
+|| Jump to Definition| ⇧⌘D| Shift-Command-D
+|| Move Focus To Next Area| ⌥⌘K| Option-Command-K
+|| Move Focus To Previous Area| ⌥⇧⌘K| Option-Shift-Command-K
+| Interface Builder| Jump to Next Object with Clipped Content
+| Interface Builder| Jump to Previous Object with Clipped Content
+| Source editor| Jump to Counterpart| ⌃⌘⇡| Control-Command-Up Arrow
+| Source editor| Jump To…| ⇧⌘J| Shift-Command-J
+| Source editor| Jump to Next Placeholder| ⌃/| Control-/
+| Source editor| Jump to Previous Placeholder| ⌃?| Control-?
+| Source editor| Jump to Next Issue| ⌘'| Command-'
+| Source editor| Jump and Fix Next Issue| ⌃⌘'| Control-Command-'
+| Source editor| Jump to Previous Issue| ⌘"| Command-"
+| Source editor| Jump and Fix Previous Issue| ⌃⌘"| Control-Command-"
 
 ##Table 1-6  Editor menu command shortcuts
 | Context| Command| Key Binding| Shortcut
