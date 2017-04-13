@@ -6,6 +6,8 @@ this book is about Shortcuts for various platforms!
 
 [contact me](mailto:gaopinjie@gmail.com)
 
+[特殊字符](special_character.md)
+
 ##Shortcuts
 1. [MacOS Shortcuts](linux/macos-shortcuts.md)
 * [Linux Shortcuts](linux/Linux_Shortcuts.md)
