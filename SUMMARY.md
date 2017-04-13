@@ -13,5 +13,6 @@
 * [IDE](ide/README.md)
   * [AndroidStudio](ide/androidstudio.md)
   * [Xcode](ide/xcode.md)
+  * [Sublimit](ide/sublimit.md)
 * [常用特殊符](special_character.md)
 

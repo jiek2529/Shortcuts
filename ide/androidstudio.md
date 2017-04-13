@@ -11,15 +11,15 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 ###General
 |Description| Windows/Linux| Mac
 |-
-|Save all| Control + S| Command + S
-|Synchronize| Control + Alt + Y| Command + Option + Y
-|Maximize/minimize editor| Control + Shift + F12| Control + Command + F12
-|Add to favorites| Alt + Shift + F| Option + Shift + F
-|Inspect current file with current profile| Alt + Shift + I| Option + Shift + I
-|Quick switch scheme| Control + ` (backquote)| Control + ` (backquote)
-|Open settings dialogue| Control + Alt + S| Command + , (comma)
-|Open project structure dialog| Control + Alt + Shift + S| Command + ; (semicolon)
-|Switch between tabs and tool window| Control + Tab| Control + Tab
+|Save all</br>全保存| Control + S| Command + S
+|Synchronize</br>同步| Control + Alt + Y| Command + Option + Y
+|Maximize/minimize editor</br>最大化/最小化 编辑器| Control + Shift + F12| Control + Command + F12
+|Add to favorites</br>加收藏| Alt + Shift + F| Option + Shift + F
+|Inspect current file with current profile</br>用当前配置检查当前文件| Alt + Shift + I| Option + Shift + I
+|Quick switch scheme</br>快切换计划| Control + ` (backquote)| Control + ` (backquote)
+|Open settings dialogue</br>打开设置窗口| Control + Alt + S| Command + , (comma)
+|Open project structure dialog</br>打开项目结构框| Control + Alt + Shift + S| Command + ; (semicolon)
+|Switch between tabs and tool window</br>切换tabs与tool窗口| Control + Tab| Control + Tab
 
 ###Navigating and Searching Within Studio
 |Description| Windows/Linux| Mac

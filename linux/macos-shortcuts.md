@@ -1,9 +1,10 @@
 #Mac keyboard shortcuts
 
 <https://support.apple.com/en-hk/HT201236>
+<https://support.apple.com/kb/PH18802>
 
 ##Keys
-Keys| icon
+Modifier key 修饰键| Symbol 符号
 ---|---
 Command| ⌘
 Shift|   ⇧
