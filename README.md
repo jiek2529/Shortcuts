@@ -12,6 +12,7 @@ this book is about Shortcuts for various platforms!
 1. [MacOS Shortcuts](linux/macos-shortcuts.md)
 * [Linux Shortcuts](linux/Linux_Shortcuts.md)
 * [VI | VIM Shortcuts](linux/vim.md)
+* [IDE-集成开发环境](ide/README.md)
 
 
 ##Engineer Tools

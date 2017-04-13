@@ -10,7 +10,8 @@
     * [Finder shortcuts](linux/macos-shortcuts.md#finder-shortcuts)
   * [Linux Shortcuts](linux/Linux_Shortcuts.md)
   * [Vim](linux/vim.md)
-* [IDE](ide.md)
+* [IDE](ide/README.md)
   * [AndroidStudio](ide/androidstudio.md)
+  * [Xcode](ide/xcode.md)
 * [常用特殊符](special_character.md)
 

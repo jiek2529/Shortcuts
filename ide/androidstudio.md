@@ -8,9 +8,9 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 
 ##Table 1. Default keyboard shortcuts for Windows/Linux and Mac operating systems.
 
+###General
 |Description| Windows/Linux| Mac
 |-
-|<font style="color:red">`General`</font>
 |Save all| Control + S| Command + S
 |Synchronize| Control + Alt + Y| Command + Option + Y
 |Maximize/minimize editor| Control + Shift + F12| Control + Command + F12
@@ -20,7 +20,10 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 |Open settings dialogue| Control + Alt + S| Command + , (comma)
 |Open project structure dialog| Control + Alt + Shift + S| Command + ; (semicolon)
 |Switch between tabs and tool window| Control + Tab| Control + Tab
-|`Navigating and Searching Within Studio`
+
+###Navigating and Searching Within Studio
+|Description| Windows/Linux| Mac
+|-
 |Search everything (including code and menus)| Press Shift twice| Press Shift twice
 |Find| Control + F| Command + F
 |Find next| F3| Command + G
@@ -45,7 +48,10 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 |Open type hierarchy| Control + H| Control + H
 |Open method hierarchy| Control + Shift + H| Command + Shift + H
 |Open call hierarchy| Control + Alt + H| Control + Option + H
-|`Writing Code`
+
+###Writing Code
+|Description| Windows/Linux| Mac
+|-
 |Generate code (getters, setters, constructors, hashCode/equals, toString, new file, new class)| Alt + Insert| Command + N
 |Override methods| Control + O| Control + O
 |Implement methods| Control + I| Control + I
@@ -85,11 +91,17 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 |Smart line split| Control + Enter| Command + Enter
 |Start new line| Shift + Enter| Shift + Enter
 |Next/previous highlighted error| F2 / Shift + F2| F2 / Shift + F2
-|`Build and Run`
+
+###Build and Run
+|Description| Windows/Linux| Mac
+|-
 |Build| Control + F9| Command + F9
 |Build and run| Shift + F10| Control + R
 |Apply changes (with Instant Run)| Control + F10| Control + Command + R
-|`Debugging`
+
+###Debugging
+|Description| Windows/Linux| Mac
+|-
 |Debug| Shift + F9| Control + D
 |Step over| F8| F8
 |Step into| F7| F7
@@ -100,7 +112,10 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 |Resume program| F9| Command + Option + R
 |Toggle breakpoint| Control + F8| Command + F8
 |View breakpoints| Control + Shift + F8| Command + Shift + F8
-|`Refactoring`
+
+###Refactoring
+|Description| Windows/Linux| Mac
+|-
 |Copy| F5| F5
 |Move| F6| F6
 |Safe delete| Alt + Delete| Command + Delete
@@ -112,24 +127,25 @@ Android Studio includes keyboard shortcuts for many common actions. Table 1 show
 |Extract field| Control + Alt + F| Command + Option + F
 |Extract constant| Control + Alt + C| Command + Option + C
 |Extract parameter| Control + Alt + P| Command + Option + P
-|Version Control / Local History
+
+###Version Control / Local History
+|Description| Windows/Linux| Mac
+|-
 |Commit project to VCS| Control + K| Command + K
 |Update project from VCS| Control + T| Command + T
 |View recent changes| Alt + Shift + C| Option + Shift + C
 |Open VCS popup| Alt + ` (backquote)| Control + V
 
-Configure Custom Keymaps
+##Configure Custom Keymaps
 You can choose from a number of preset keymaps or modify a preset keymap to create a new custom keymap in the keymap settings for Android Studio.
 
-To open the keymap settings, click File > Settings > Keymap (on Mac, File > Properties > Keymap).
+To open the keymap settings, click **File > Settings > Keymap** (on Mac, **File > Properties > Keymap**).
+![](/assets/keymap-options_2-2_2x.png)
+**Figure 1.** The Android Studio keymap settings window.
 
-
-
-Figure 1. The Android Studio keymap settings window.
-
-Keymaps dropdown: Delect the desired keymap from this menu to switch between preset keymaps.
-Actions list: Right click on an action to modify it. You can add additional keyboard shortcuts for the action, add mouse shortcuts to associate an action with a mouse click, or remove current shortcuts. If you are using a preset keymap, modifying an action’s shortcuts will automatically create a copy of the keymap and add your modifications to the copy.
-Copy button: Select a keymap from the dropdown menu to use as a starting point, and click Copy to create a new custom keymap. You can modify the keymap name and shortcuts.
-Reset button: Select a keymap from the dropdown menu and click Reset to revert it to its original configuration.
-Search box: Type here to search for a keyboard shortcut by the action name.
-Search by Shortcut: Click Find Actions by Shortcut and type a shortcut to search for actions by shortcut.
+1. **Keymaps dropdown:** Delect the desired keymap from this menu to switch between preset keymaps.
++ **Actions list:** Right click on an action to modify it. You can add additional keyboard shortcuts for the action, add mouse shortcuts to associate an action with a mouse click, or remove current shortcuts. If you are using a preset keymap, modifying an action’s shortcuts will automatically create a copy of the keymap and add your modifications to the copy.
++ **Copy button:** Select a keymap from the dropdown menu to use as a starting point, and click **Copy** to create a new custom keymap. You can modify the keymap name and shortcuts.
++ **Reset button:** Select a keymap from the dropdown menu and click **Reset** to revert it to its original configuration.
++ **Search box:** Type here to search for a keyboard shortcut by the action name.
++ **Search by Shortcut:** Click **Find Actions by Shortcut** and type a shortcut to search for actions by shortcut.
