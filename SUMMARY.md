@@ -13,6 +13,8 @@
 * [IDE](ide/README.md)
   * [AndroidStudio](ide/androidstudio.md)
   * [Xcode](ide/xcode.md)
+    * [Xcode menu Command Shortcuts](ide/xcode_menu.md)
+    * [Xcode Text Commands](ide/xcode_text_commands.md)
   * [Sublimit](ide/sublimit.md)
 * [常用特殊符](special_character.md)
 
