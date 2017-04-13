@@ -181,258 +181,132 @@ Table 1-9  Help menu
 ##Table 1-6  Editor menu command shortcuts
 | Context| Command| Key Binding| Shortcut
 |-
-| Data model
-| Show Grid
-| Show Page Breaks
-| Add Entity
-| Add Fetch Request
-| Add Configuration
-| Add Attribute
-| ⌃⌘A
-| Control-Command-A
-| Add Fetched Property
-| Add Relationship
-| ⌃⌘R
-| Control-Command-R
-| Import…
-| Create NSManagedObject subclass…
-| Documentation
-| Explore Documentation
-| Search Documentation
-| Documentation Bookmarks
-| Zoom In
-| Zoom Out
-| Actual Size
-| Add Bookmark
-| History
-| Interface Builder
-| Show Bounds Rectangles
-| Show Layout Rectangles
-| Snap to Guides
-| Live Autoresizing
-| Align Left Edges
-| ⌘[
-| Command-[
-| Align Right Edges
-| ⌘]
-| Command-]
-| Align Top Edges
-| Align Bottom Edges
-| Align Horizontal Centers
-| Align Vertical Centers
-| Align Baselines
-| Align Horizontal Center In Container
-| Align Vertical Center In Container
-| Send to Front
-| Send to Back
-| Send Forward
-| Send Backward
-| Unembed
-| Size to Fit
-| ⌘=
-| Command-=
-| Add Horizontal Guide
-| ⌘_
-| Command-_
-| Add Vertical Guide
-| ⌘|
-| Command-|
-| Reveal in Document Structure
-| Simulate Document
-| PDF
-| Automatically Resize
-| Zoom In
-| Zoom Out
-| Actual Size
-| Single Page
-| Single Page Continuous
-| Two Pages
-| Two Pages Continuous
-| Next Page
-| ⌥⌘⇣
-| Option-Command-Down Arrow
-| Previous Page
-| ⌥⌘⇡
-| Option-Command-Up Arrow
-| RTF
-| Insert Page Break
-| Insert Line Break
-| Insert Paragraph Break
-| Show Ruler
-| Add Link…
-| Allow Hyphenation
-| Scripting definition
-| Make Text Bigger
-| ⌘+
-| Command-+
-| Make Text Smaller
-| ⌘-
-| Command--
-| Source code
-| Show Completions
-| ⌃\
-| Control-\
-| Edit All in Scope
-| ⌃⌘E
-| Control-Command-E
-| Fix All in Scope
-| ⌃⌘F
-| Control-Command-F
-| Show Issue
-| Show All Issues
-| ⌃⌘M
-| Control-Command-M
-| All Issues
-| Errors Only
-| Balance Delimiter
-| Re-Indent
-| Shift Right
-| ⌘]
-| Command-]
-| Shift Left
-| ⌘[
-| Command-[
-| Move Line Up
-| ⌥⌘[
-| Option-Command-[
-| Move Line Down
-| ⌥⌘]
-| Option-Command-]
-| Comment Selection
-| ⌘/
-| Command-/
-| Fold
-| ⌥⌘⇠
-| Option-Command-Left Arrow
-| Unfold
-| ⌥⌘⇢
-| Option-Command-Right Arrow
-| Unfold All
-| Fold Methods & Functions
-| ⌥⇧⌘⇠
-| Option-Shift-Command-Left Arrow
-| Unfold Methods & Functions
-| ⌥⇧⌘⇢
-| Option-Shift-Command-Right Arrow
-| Fold Comment Blocks
-| ⌃⇧⌘⇠
-| Control-Shift-Command-Left Arrow
-| Unfold Comment Blocks
-| ⌃⇧⌘⇢
-| Control-Shift-Command-Right Arrow
-| Focus Follows Selection
-| Show Invisibles
-| Xcode project
-| Add Target…
-| Hex editor
-| Overwrite Mode
-| ⌥⇧⌘O
-| Option-Shift-Command-O
+| Data model| Show Grid
+| Data model| Show Page Breaks
+| Data model| Add Entity
+| Data model| Add Fetch Request
+| Data model| Add Configuration
+| Data model| Add Attribute| ⌃⌘A| Control-Command-A
+| Data model| Add Fetched Property
+| Data model| Add Relationship| ⌃⌘R| Control-Command-R
+| Data model| Import…
+| Data model| Create NSManagedObject subclass…
+| Documentation| Explore Documentation
+| Documentation| Search Documentation
+| Documentation| Documentation Bookmarks
+| Documentation| Zoom In
+| Documentation| Zoom Out
+| Documentation| Actual Size
+| Documentation| Add Bookmark
+| Documentation| History
+| Interface Builder| Show Bounds Rectangles
+| Interface Builder| Show Layout Rectangles
+| Interface Builder| Snap to Guides
+| Interface Builder| Live Autoresizing
+| Interface Builder| Align Left Edges| ⌘[| Command-[
+| Interface Builder| Align Right Edges| ⌘]| Command-]
+| Interface Builder| Align Top Edges
+| Interface Builder| Align Bottom Edges
+| Interface Builder| Align Horizontal Centers
+| Interface Builder| Align Vertical Centers
+| Interface Builder| Align Baselines
+| Interface Builder| Align Horizontal Center In Container
+| Interface Builder| Align Vertical Center In Container
+| Interface Builder| Send to Front
+| Interface Builder| Send to Back
+| Interface Builder| Send Forward
+| Interface Builder| Send Backward
+| Interface Builder| Unembed
+| Interface Builder| Size to Fit| ⌘=| Command-=
+| Interface Builder| Add Horizontal Guide| ⌘_| Command-_
+| Interface Builder| Add Vertical Guide| ⌘|| Command-|
+| Interface Builder| Reveal in Document Structure
+| Interface Builder| Simulate Document
+| PDF| Automatically Resize
+| PDF| Zoom In
+| PDF| Zoom Out
+| PDF| Actual Size
+| PDF| Single Page
+| PDF| Single Page Continuous
+| PDF| Two Pages
+| PDF| Two Pages Continuous
+| PDF| Next Page| ⌥⌘⇣| Option-Command-Down Arrow
+| PDF| Previous Page| ⌥⌘⇡| Option-Command-Up Arrow
+| RTF| Insert Page Break
+| RTF| Insert Line Break
+| RTF| Insert Paragraph Break
+| RTF| Show Ruler
+| RTF| Add Link…
+| RTF| Allow Hyphenation
+| Scripting definition| Make Text Bigger| ⌘+| Command-+
+| Scripting definition| Make Text Smaller| ⌘-| Command--
+
+| Source code| Show Completions| ⌃\| Control-\
+| Source code| Edit All in Scope| ⌃⌘E| Control-Command-E
+| Source code| Fix All in Scope| ⌃⌘F| Control-Command-F
+| Source code| Show Issue
+| Source code| Show All Issues| ⌃⌘M| Control-Command-M
+| Source code| All Issues
+| Source code| Errors Only
+| Source code| Balance Delimiter
+| Source code| Re-Indent
+| Source code| Shift Right| ⌘]| Command-]
+| Source code| Shift Left| ⌘[| Command-[
+| Source code| Move Line Up| ⌥⌘[| Option-Command-[
+| Source code| Move Line Down| ⌥⌘]| Option-Command-]
+| Source code| Comment Selection| ⌘/| Command-/
+| Source code| Fold| ⌥⌘⇠| Option-Command-Left Arrow
+| Source code| Unfold| ⌥⌘⇢| Option-Command-Right Arrow
+| Source code| Unfold All
+| Source code| Fold Methods & Functions| ⌥⇧⌘⇠| Option-Shift-Command-Left Arrow
+| Source code| Unfold Methods & Functions| ⌥⇧⌘⇢| Option-Shift-Command-Right Arrow
+| Source code| Fold Comment Blocks| ⌃⇧⌘⇠| Control-Shift-Command-Left Arrow
+| Source code| Unfold Comment Blocks| ⌃⇧⌘⇢| Control-Shift-Command-Right Arrow
+| Source code| Focus Follows Selection
+| Source code| Show Invisibles
+| Xcode project| Add Target…
+| Hex editor| Overwrite Mode| ⌥⇧⌘O| Option-Shift-Command-O
 
 ##Table 1-7  Product menu command shortcuts
 | Command| Variant| Key Binding| Shortcut
 |-
-| Run
-| ⌘R
-| Command-R
-| Run…& #185;
-| ⌥⌘R
-| Option-Command-R
-| Test
-| ⌘T
-| Command-T
-| Test…& #185;
-| ⌥⌘T
-| Option-Command-T
-| Profile
-| ⌘I
-| Command-I
-| Profile…& #185;
-| ⌥⌘I
-| Option-Command-I
-| Analyze
-| ⌃⌘B
-| Control-Command-B
-| Analyze…& #185;
-| ⌃⌥⌘B
-| Control-Option-Command-B
+| Run| |⌘R| Command-R
+| Run| Run…& #185;| ⌥⌘R| Option-Command-R
+| Test| |⌘T| Command-T
+| Test| Test…& #185;| ⌥⌘T| Option-Command-T
+| Profile| ⌘I| Command-I
+| Profile…& #185;| ⌥⌘I| Option-Command-I
+| Analyze| ⌃⌘B| Control-Command-B
+| Analyze…& #185;| ⌃⌥⌘B| Control-Option-Command-B
 | Archive
-| Build For
-| Build For Running
-| ⇧⌘R
-| Shift-Command-R
-| Build For Testing
-| ⇧⌘U
-| Shift-Command-U
-| Build for Profiling
-| ⇧⌘I
-| Shift-Command-I
-| Build for Archiving
-| Perform Action
-| Run Without Building
-| ⌃⌘R
-| Control-Command-R
-| Test Without Building
-| ⌃⌘U
-| Control-Command-U
-| Profile Without Building
-| ⌃⌘I
-| Control-Command-I
-| Build
-| ⌘B
-| Command-B
-| Clean
-| ⇧⌘K
-| Shift-Command-K
-| Clean Build Folder…
-| ⌥⇧⌘K
-| Option-Shift-Command-K
-| Stop
-| ⌘.
-| Command-.
-| Debug
-| Pause
-| ⌃⌘Y
-| Control-Command-Y
-| Step Into
-| F7
-| Function 7
-| Step Over
-| F6
-| Function 6
-| Step Out
-| F8
-| Function 8
-| Step Into Thread
-| ⌃⇧F7
-| Control-Shift-Function 7
-| Step Into Instruction
-| ⌃F7
-| Control-Command-Function 7
-| Step Over Thread
-| ⌃⇧F6
-| Control-Shift-Function 6
-| Step Over Instruction
-| ⌃F6
-| Control-Function 6
-| Add Breakpoint at Current Line
-| ⌘\
-| Command-\
-| Activate Breakpoints
-| Deactivate Breakpoints
-| ⌘Y
-| Command-Y
-| Shared Libraries...
-| Clear Console
-| ⌘K
-| Command-K
-| Window Behavior
-| Normal
-| Xcode Behind
-| Xcode In Front
-| Edit Scheme…
-| ⌘<
-| Command-Less Than
+| Build For| Build For Running| ⇧⌘R| Shift-Command-R
+| Build For| Build For Testing| ⇧⌘U| Shift-Command-U
+| Build For| Build for Profiling| ⇧⌘I| Shift-Command-I
+| Build For| Build for Archiving
+| Perform Action| Run Without Building| ⌃⌘R| Control-Command-R
+| Perform Action| Test Without Building| ⌃⌘U| Control-Command-U
+| Perform Action| Profile Without Building| ⌃⌘I| Control-Command-I
+| Build| |⌘B| Command-B
+| Clean| |⇧⌘K| Shift-Command-K
+| Clean| Clean Build Folder…| ⌥⇧⌘K| Option-Shift-Command-K
+| Stop| |⌘.| Command-.
+| Debug| Pause| ⌃⌘Y| Control-Command-Y
+| Debug| Step Into| F7| Function 7
+| Debug| Step Over| F6| Function 6
+| Debug| Step Out| F8| Function 8
+| Debug| Step Into Thread| ⌃⇧F7| Control-Shift-Function 7
+| Debug| Step Into Instruction| ⌃F7| Control-Command-Function 7
+| Debug| Step Over Thread| ⌃⇧F6| Control-Shift-Function 6
+| Debug| Step Over Instruction| ⌃F6| Control-Function 6
+| Debug| Add Breakpoint at Current Line| ⌘\| Command-\
+| Debug| Activate Breakpoints
+| Debug| Deactivate Breakpoints| ⌘Y| Command-Y
+| Debug| Shared Libraries...
+| Debug| Clear Console| ⌘K| Command-K
+| Window Behavior| Normal
+| Window Behavior| Xcode Behind
+| Window Behavior| Xcode In Front
+| Edit Scheme…| | ⌘<| Command-Less Than
 | New Scheme…
 | Manage Schemes…
 & #185;Opens the scheme editing dialog for editing prior to performing the chosen command.
